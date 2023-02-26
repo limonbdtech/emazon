@@ -1,0 +1,10 @@
+.logo{
+    text-align: center;
+}
+.form input{
+    width: 97%;
+    padding: 2px;
+}
+.form{
+    background-color: rgb(108, 107, 107);
+}
